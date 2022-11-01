@@ -3,3 +3,7 @@ k8s_config:
   cluster_info:
     cluster_id: 478a66a1-d8ce-5750-9274-fce6204cf4e0
     cluster_name: Ricardo Labarca's prod cluster
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: a4e9ca23-e767-5b20-8eaa-fdc0cc2bccb5
+    cluster_name: Ricardo Labarca's staging cluster
